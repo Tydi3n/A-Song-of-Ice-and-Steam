@@ -1,5 +1,5 @@
 BUILDINGS = {
-s:STATE_FROSTFANGS={
+	s:STATE_FROSTFANGS={
 		region_state:BTW={
 			create_building={
 				building="building_fishing_wharf"
@@ -78,7 +78,7 @@ s:STATE_FROSTFANGS={
 		}
 	}
 
-s:STATE_LANDS_OF_ALWAYS_WINTER={
+	s:STATE_LANDS_OF_ALWAYS_WINTER={
 		region_state:BTW={
 			create_building={
 				building="building_trade_center"
@@ -118,7 +118,7 @@ s:STATE_LANDS_OF_ALWAYS_WINTER={
 		}
 	}
 
-s:STATE_HAUNTED_FOREST={
+	s:STATE_HAUNTED_FOREST={
 		region_state:BTW={
 			create_building={
 				building="building_government_administration"
@@ -240,4 +240,3 @@ s:STATE_HAUNTED_FOREST={
 		}
 	}
 }
-

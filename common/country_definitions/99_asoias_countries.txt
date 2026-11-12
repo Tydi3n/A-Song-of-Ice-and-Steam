@@ -5,7 +5,7 @@ NTH = {
 
     tier = kingdom
 
-    cultures = { swedish}
+    cultures = { north_german}
     capital = STATE_WINTERFELL
 }
 BTW = {
@@ -15,57 +15,3 @@ BTW = {
     cultures = { norwegian }
     capital = STATE_HAUNTED_FOREST
 }
-
-IRN = {
-    color = { 142 153 158 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { danish }
-    capital = STATE_JUTLAND
-}
-CRL = {
-    color = { 162 82 76 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { english }
-    capital = STATE_HOME_COUNTIES
-}
-RCH = {
-    color = { 105 157 91 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { french }
-    capital = STATE_ILE_DE_FRANCE
-}
-DOR = {
-    color = { 207 157 81 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { spanish }
-    capital = STATE_MURCIA
-}
-RIV = {
-    color = { 76 126 151 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { north_german }
-    capital = STATE_BRANDENBURG
-}
-VAL = {
-    color = { 135 155 184 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { austrian }
-    capital = STATE_AUSTRIA
-}
-
-
-STM = {
-    color = { 159 91 86 }
-    country_type = recognized
-    tier = kingdom
-    cultures = { russian }
-    capital = STATE_MOSCOW
-}
-
-

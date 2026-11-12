@@ -13,28 +13,3 @@
  STATE_FROSTFANGS:0 "Frostfangs"
  STATE_LANDS_OF_ALWAYS_WINTER:0 "Lands of Always Winter"
  STATE_HAUNTED_FOREST:0 "Haunted Forest"
-
- IRN:0 "Iron Islands"
- IRN_ADJ:0 "Ironborn"
- region_iron_islands:0 "Iron Islands"
- CRL:0 "The Crownlands"
- CRL_ADJ:0 "Crownlander"
- region_crownlands:0 "The Crownlands"
- RCH:0 "The Reach"
- RCH_ADJ:0 "Reachman"
- region_the_reach:0 "The Reach"
- DOR:0 "Dorne"
- DOR_ADJ:0 "Dornish"
- region_dorne:0 "Dorne"
- RIV:0 "The Riverlands"
- RIV_ADJ:0 "Riverman"
- region_riverlands:0 "The Riverlands"
- VAL:0 "The Vale"
- VAL_ADJ:0 "Valeman"
- region_the_vale:0 "The Vale"
-
-
- STM:0 "The Stormlands"
- STM_ADJ:0 "Stormlander"
- region_stormlands:0 "The Stormlands"
-
