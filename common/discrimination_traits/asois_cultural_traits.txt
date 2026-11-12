@@ -1,0 +1,14 @@
+﻿asois_heritage_first_men = {
+    type = heritage
+    trait_group = asois_heritage_group_westerosi
+}
+
+asois_language_common_tongue = {
+    type = language
+    trait_group = asois_language_group_westerosi
+}
+
+asois_language_old_tongue = {
+    type = language
+    trait_group = asois_language_group_westerosi
+}

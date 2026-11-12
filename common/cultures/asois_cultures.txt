@@ -1,0 +1,81 @@
+﻿northmen = {
+    color = rgb{ 110 120 130 }
+    religion = asois_old_gods
+    heritage = asois_heritage_first_men
+    language = asois_language_common_tongue
+
+    obsessions = {
+        meat
+    }
+
+    traditions = { }
+
+    male_common_first_names = {
+        Brandon Eddard Robb Jon Rickon Benjen Rickard
+        Roose Ramsay Domeric
+        Jeor Jorah
+        Greatjon Smalljon
+        Galbart Robett
+        Harrion Torrhen
+        Wyman Wylis Wendel
+        Rodrik Jory
+        Howland Jojen
+        Helman
+    }
+    female_common_first_names = {
+        Lyanna Arya Sansa Catelyn
+        Barbrey Bethany
+        Maege Dacey Lyra Jorelle
+        Alys
+        Wynafryd Wylla
+        Meera
+        Donella
+        Jonelle
+    }
+    noble_last_names = {
+        Stark Bolton Mormont Umber Glover Karstark Manderly Cassel Reed Tallhart Hornwood Cerwyn Dustin Ryswell Flint Locke Norrey Wull Liddle
+    }
+    common_last_names = {
+        Snow Woods Moss Marsh Peat Slate Mollen Poole Heddle
+    }
+
+    male_regal_first_names = {
+        Brandon Torrhen Theon Cregan Edric Rickard Jonos
+    }
+    female_regal_first_names = {
+        Lyanna Sansa Arya
+    }
+
+    graphics = european
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+free_folk = {
+    color = rgb{ 153 183 185 }
+    religion = asois_old_gods
+    heritage = asois_heritage_first_men
+    language = asois_language_old_tongue
+
+    obsessions = { meat }
+    traditions = { }
+
+    male_common_first_names = {
+        Mance Tormund Styr Varamyr Alfyn Orell Jarl
+        Ryk Longspear Gerrick Borroq
+    }
+    female_common_first_names = {
+        Ygritte Dalla Val Gilly Morna Harma
+        Rowan Myrtle Munda Frenya
+    }
+    # Use bynames in the engine's surname pools.
+    noble_last_names = { Rayder Crowkiller Sixskins Giantsbane }
+    common_last_names = { Crowkiller Sixskins Giantsbane }
+
+    male_regal_first_names = { Mance Tormund }
+    female_regal_first_names = { Dalla Val }
+
+    graphics = european
+    ethnicities = { 1 = caucasian }
+}

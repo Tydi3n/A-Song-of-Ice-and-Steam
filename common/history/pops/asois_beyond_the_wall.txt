@@ -2,7 +2,7 @@ POPS = {
 	s:STATE_FROSTFANGS = {
 		region_state:BTW = {
 			create_pop = {
-				culture = norwegian
+				culture = free_folk
 				size = 546800
 			}
 		}
@@ -11,7 +11,7 @@ POPS = {
 	s:STATE_LANDS_OF_ALWAYS_WINTER = {
 		region_state:BTW = {
 			create_pop = {
-				culture = norwegian
+				culture = free_folk
 				size = 284860
 			}
 			create_pop = {
@@ -28,7 +28,7 @@ POPS = {
 	s:STATE_HAUNTED_FOREST = {
 		region_state:BTW = {
 			create_pop = {
-				culture = norwegian
+				culture = free_folk
 				size = 345800
 			}
 			create_pop = {

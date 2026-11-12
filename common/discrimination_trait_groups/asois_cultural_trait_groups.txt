@@ -1,0 +1,7 @@
+﻿asois_heritage_group_westerosi = {
+    type = heritage
+}
+
+asois_language_group_westerosi = {
+    type = language
+}

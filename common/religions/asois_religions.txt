@@ -1,0 +1,5 @@
+﻿asois_old_gods = {
+    icon = "gfx/interface/icons/religion_icons/animist.dds"
+    heritage = heritage_indigenous
+    color = { 0.29 0.40 0.31 }
+}
