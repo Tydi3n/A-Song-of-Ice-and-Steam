@@ -1,0 +1,1121 @@
+POPS = {
+s:STATE_PROVENCE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = north_italian
+				size = 131100
+			}
+			create_pop = {
+				culture = occitan
+				size = 41100
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = occitan
+				size = 1038678
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 12115
+			}
+			create_pop = {
+				culture = french
+				size = 37612
+			}
+			create_pop = {
+				culture = sephardic # Avignonese Jews, closer to Sephardi than Ashkenazi
+				size = 2440
+			}
+		}
+	}
+
+s:STATE_NORMANDY = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 2670494
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 14169
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 469
+			}
+		}
+	}
+
+s:STATE_GUAYANA = {
+		region_state:RCH = {
+			create_pop = {
+				culture = afro_caribbean
+				religion = animist
+				size = 36000
+			}
+			create_pop = {
+				culture = dutch
+				size = 632
+			}
+			create_pop = {
+				culture = amazonian
+				size = 7796
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 12000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1592
+			}
+			create_pop = {
+				culture = amazonian
+				size = 4000
+			}
+			create_pop = {
+				culture = afro_antillean
+				size = 14400
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 92000
+			}
+			create_pop = {
+				culture = british
+				size = 3588
+			}
+			create_pop = {
+				culture = amazonian
+				size = 8000
+			}
+		}
+	}
+
+s:STATE_ORAN = {
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 612178
+			}
+			create_pop = {
+				culture = berber
+				size = 100234
+			}
+			create_pop = {
+				culture = turkish
+				size = 2084
+			}
+			create_pop = {
+				culture = sephardic
+				size = 2910
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 18401
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 41020
+			}
+			create_pop = {
+				culture = berber
+				size = 3012
+			}
+			create_pop = {
+				culture = turkish
+				size = 612
+			}
+			create_pop = {
+				culture = sephardic
+				size = 2604
+			}
+			create_pop = {
+				culture = french
+				size = 681
+			}
+			create_pop = {
+				culture = bambara
+				size = 1041
+			}
+		}
+	}
+
+s:STATE_ALGIERS = {
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 541914
+			}
+			create_pop = {
+				culture = berber
+				size = 703830
+			}
+			create_pop = {
+				culture = turkish
+				size = 1023
+			}
+			create_pop = {
+				culture = sephardic
+				size = 2606
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 24012
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 84722
+			}
+			create_pop = {
+				culture = berber
+				size = 40143
+			}
+			create_pop = {
+				culture = turkish
+				size = 2701
+			}
+			create_pop = {
+				culture = sephardic
+				size = 7849
+			}
+			create_pop = {
+				culture = french
+				size = 1201
+			}
+			create_pop = {
+				culture = bambara
+				size = 3401
+			}
+		}
+	}
+
+s:STATE_CONSTANTINE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 245953
+			}
+			create_pop = {
+				culture = berber
+				size = 1204215
+			}
+			create_pop = {
+				culture = turkish
+				size = 1401
+			}
+			create_pop = {
+				culture = sephardic
+				size = 4646
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 32020
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 18124
+			}
+			create_pop = {
+				culture = berber
+				size = 262139
+			}
+			create_pop = {
+				culture = sephardic
+				size = 304
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 9281
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = maghrebi
+				size = 18830
+			}
+			create_pop = {
+				culture = berber
+				size = 11020
+			}
+			create_pop = {
+				culture = turkish
+				size = 301
+			}
+			create_pop = {
+				culture = sephardic
+				size = 1778
+			}
+			create_pop = {
+				culture = french
+				size = 351
+			}
+			create_pop = {
+				culture = bambara
+				size = 1209
+			}
+		}
+	}
+
+s:STATE_INDIAN_OCEAN_TERRITORY = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 29992
+			}
+			create_pop = {
+				culture = afro_antillean
+				size = 68000
+			}
+			create_pop = {
+				culture = swahili
+				size = 2000
+			}
+			create_pop = {
+				culture = afro_antillean
+				religion = animist
+				size = 6000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 2088
+			}
+			create_pop = {
+				culture = afro_antillean
+				size = 94612
+			}
+			create_pop = {
+				culture = british
+				size = 800
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 5900
+			}
+		}
+	}
+
+s:STATE_LANGUEDOC = {
+		region_state:RCH = {
+			create_pop = {
+				culture = occitan
+				size = 1994848
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 167963
+			}
+			create_pop = {
+				culture = catalan
+				size = 145206
+			}
+			create_pop = {
+				culture = french
+				size = 64216
+			}
+			create_pop = {
+				culture = sephardic
+				size = 895
+			}
+		}
+	}
+
+s:STATE_RHONE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = francoprovencal
+				size = 1709209
+			}
+			create_pop = {
+				culture = francoprovencal
+				religion = protestant
+				size = 7736
+			}
+			create_pop = {
+				culture = occitan
+				size = 711985
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 78428
+			}
+			create_pop = {
+				culture = french
+				size = 96520
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 889
+			}
+		}
+	}
+
+s:STATE_FRENCH_LOW_COUNTRIES = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1608005
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 10279
+			}
+			create_pop = {
+				culture = flemish
+				size = 70121
+			}
+			create_pop = {
+				culture = flemish
+				religion = protestant
+				size = 2021
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 645
+			}
+		}
+	}
+
+s:STATE_PICARDY = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1470989
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 7307
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 146
+			}
+		}
+	}
+
+s:STATE_ALSACE_LORRAINE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = alemannic
+				size = 719210
+			}
+			create_pop = {
+				culture = alemannic
+				religion = protestant
+				size = 220778
+			}
+			create_pop = {
+				culture = south_german
+				size = 236987
+			}
+			create_pop = {
+				culture = south_german
+				religion = protestant
+				size = 4571
+			}
+			create_pop = {
+				culture = french
+				size = 215063
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 39519
+			}
+		}
+	}
+
+s:STATE_POITOU = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1680062
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 65087
+			}
+			create_pop = {
+				culture = occitan
+				size = 3001
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 44
+			}
+		}
+	}
+
+s:STATE_GUYENNE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = occitan
+				size = 1693584
+			}
+			create_pop = {
+				culture = french
+				size = 10362
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 30094
+			}
+		}
+	}
+
+s:STATE_AUVERGNE_LIMOUSIN = {
+		region_state:RCH = {
+			create_pop = {
+				culture = occitan
+				size = 1949056
+			}
+			create_pop = {
+				culture = french
+				size = 369270
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 9298
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 263
+			}
+		}
+	}
+
+s:STATE_BRITTANY = {
+		region_state:RCH = {
+			create_pop = {
+				culture = breton
+				size = 1599083
+			}
+			create_pop = {
+				culture = french
+				size = 1018017
+			}
+			create_pop = {
+				culture = breton
+				religion = protestant
+				size = 3030
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 148
+			}
+		}
+	}
+
+s:STATE_BURGUNDY = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1561366
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 2607
+			}
+			create_pop = {
+				culture = francoprovencal
+				size = 12350
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 595
+			}
+		}
+	}
+
+s:STATE_CHAMPAGNE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1153438
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 3472
+			}
+			create_pop = { # Givet area Walloon
+				culture = wallonian
+				size = 4167
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 868
+			}
+		}
+	}
+
+s:STATE_FRANCHE_COMTE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 770731
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 40722
+			}
+			create_pop = {
+				culture = francoprovencal
+				size = 121924
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 1550
+			}
+		}
+	}
+
+s:STATE_LORRAINE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1133731
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 12130
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 7240
+			}
+		}
+	}
+
+s:STATE_AQUITAINE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = occitan
+				size = 1703916
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 18784
+			}
+			create_pop = {
+				culture = french
+				size = 58129
+			}
+			create_pop = {
+				culture = basque
+				size = 60145
+			}
+			create_pop = {
+				culture = sephardic
+				size = 3203
+			}
+		}
+	}
+
+s:STATE_MAINE_ANJOU = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1608973
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 1161
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 60
+			}
+		}
+	}
+
+s:STATE_ORLEANS = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1375047
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 4355
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 91
+			}
+		}
+	}
+
+s:STATE_ILE_DE_FRANCE = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 1852741
+			}
+			create_pop = {
+				culture = french
+				religion = protestant
+				size = 20393
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 9220
+			}
+		}
+	}
+
+s:STATE_WEST_INDIES = {
+		region_state:RCH = {
+			create_pop = {
+				culture = french
+				size = 22200
+			}
+			create_pop = {
+				culture = afro_antillean
+				size = 216104
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = danish
+				size = 3992
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 39996
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = british
+				size = 34704
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 234768
+			}
+			create_pop = {
+				culture = dutch
+				size = 396
+			}
+		}
+		region_state:RCH = {
+			# Population of ~23700 recorded in 1849
+			create_pop = {
+				culture = afro_brazilian # Papiamento-speakers
+				# pop_type = slaves
+				size = 10212
+			}
+			create_pop = {
+				culture = afro_brazilian # Papiamento-speakers
+				size = 8312
+			}
+			create_pop = {
+				culture = dutch
+				size = 1112
+			}
+			create_pop = {
+				culture = sephardic
+				size = 1202
+			}
+		}
+		region_state:RCH = {
+			# Very rough backwards calculation of Nueva Esparta's population in 1921
+			create_pop = {
+				culture = north_andean
+				size = 17123
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 1310
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 1012
+			}
+		}
+	}
+
+s:STATE_MADRAS = {
+		region_state:RCH = {
+			create_pop = {
+				culture = tamil
+				size = 182284
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 20102
+			}
+			create_pop = {
+				culture = french
+				size = 450
+			}
+			create_pop = {
+				culture = tamil
+				religion = catholic
+				size = 27773
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = tamil
+				size = 30102
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 4010
+			}
+			create_pop = {
+				culture = danish
+				size = 201
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = tamil
+				size = 7168370
+			}
+			create_pop = {
+				culture = tamil
+				religion = protestant
+				size = 61145
+			}
+			create_pop = {
+				culture = british
+				size = 2500
+				pop_type = bureaucrats
+			}
+			create_pop = {
+				culture = british
+				size = 15890
+			}
+			create_pop = {
+				culture = scottish
+				size = 6123
+				pop_type = bureaucrats
+			}
+			create_pop = {
+				culture = kannada
+				size = 271981
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 498443
+			}
+			create_pop = {
+				culture = tamil
+				religion = catholic
+				size = 59374
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tamil
+				size = 210321
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kannada
+				size = 34002
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = tamil
+				size = 202480
+			}
+			create_pop = {
+				culture = telegu
+				size = 4768
+			}
+			create_pop = {
+				culture = kannada
+				size = 3428
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 23840
+			}
+			create_pop = {
+				culture = tamil
+				religion = protestant
+				size = 7152
+			}
+		}
+	}
+
+s:STATE_IVORY_COAST = {
+		region_state:RCH = {
+			create_pop = {
+				culture = akan
+				size = 88000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = akan
+				size = 40000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = akan
+				size = 52004
+			}
+			create_pop = {
+				culture = senufo
+				size = 96000
+			}
+			create_pop = {
+				culture = dyula
+				size = 64004
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = akan
+				size = 20004
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = akan
+				size = 79200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = akan
+				size = 8800
+			}
+		}
+	}
+
+s:STATE_SENEGAL = {
+		region_state:RCH = {
+			create_pop = {
+				culture = fulbe
+				size = 95992
+			}
+			create_pop = {
+				culture = bidan
+				size = 12400
+			}
+			create_pop = {
+				culture = wolof
+				size = 32000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = wolof
+				size = 107600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = wolof
+				size = 6000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = wolof
+				size = 82000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = wolof
+				size = 8000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = fulbe
+				size = 80004
+			}
+			create_pop = {
+				culture = wolof
+				size = 6396
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 8000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = wolof
+				size = 6000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = portuguese
+				size = 42
+			}
+			create_pop = {
+				culture = afro_brazilian
+				size = 142
+			}
+			create_pop = {
+				culture = fulbe
+				size = 9412
+			}
+			create_pop = {
+				culture = mande
+				size = 2312
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = mande
+				size = 91540
+			}
+			create_pop = {
+				culture = fulbe
+				size = 38000
+			}
+			create_pop = {
+				culture = wolof
+				size = 22860
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 80400
+			}
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 4000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 8000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = mande
+				size = 96000
+			}
+			create_pop = {
+				culture = wolof
+				size = 64400
+			}
+			create_pop = {
+				culture = bambara
+				size = 34000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 10000
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 23121
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				religion = animist
+				size = 2341
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = fulbe
+				religion = animist
+				size = 44123
+			}
+			create_pop = {
+				culture = fulbe
+				size = 4310
+			}
+			create_pop = {
+				culture = mande
+				size = 3121
+			}
+		}
+		region_state:RCH = {
+			create_pop = {
+				culture = fulbe
+				religion = animist
+				size = 1235
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				religion = animist
+				size = 345
+			}
+			create_pop = {
+				culture = portuguese
+				size = 34
+			}
+		}
+	}
+
+s:STATE_CORSICA = {
+		region_state:RCH = {
+			create_pop = {
+				culture = corsican
+				size = 190540
+			}
+			create_pop = { # Ligurian
+				culture = north_italian
+				size = 502
+			}
+			create_pop = { # Educated guess
+				culture = french
+				size = 16723
+			}
+			create_pop = {
+				culture = corsican
+				religion = protestant
+				size = 124
+			}
+		}
+	}
+}
+

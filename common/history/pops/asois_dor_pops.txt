@@ -1,0 +1,271 @@
+POPS = {
+s:STATE_LOWER_ANDALUSIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 1215991
+			}
+		}
+	}
+
+s:STATE_GALICIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = galician
+				size = 1331476
+			}
+			create_pop = {
+				culture = spanish
+				size = 133677
+			}
+			create_pop = {
+				culture = asturleonese
+				size = 20102
+			}
+		}
+	}
+
+s:STATE_ASTURIAS = {
+		region_state:DOR = {
+			create_pop = {
+				culture = asturleonese
+				size = 364438
+			}
+			create_pop = {
+				culture = spanish
+				size = 36123
+			}
+			# Galician-Asturian (Eonavia)
+			create_pop = {
+				culture = galician
+				size = 38002
+			}
+		}
+	}
+
+s:STATE_OLD_CASTILE = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 1254058
+			}
+			# Montañés
+			create_pop = {
+				culture = asturleonese
+				size = 20040
+			}
+		}
+	}
+
+s:STATE_ARAGON = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 389486
+			}
+			create_pop = {
+				culture = catalan
+				size = 30202
+			}
+			# Population of most of Huseca subregion
+			create_pop = {
+				culture = aragonese
+				size = 214874
+			}
+		}
+		# Maestrazgo + about another 50k moved here for gameplay reasons
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 100123
+			}
+		}
+	}
+
+s:STATE_CATALONIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = catalan
+				size = 926100
+			}
+			create_pop = {
+				culture = spanish
+				size = 50010
+			}
+		}
+		# Carlist controlled territories + 50k moved here for gameplay reasons
+		region_state:DOR = {
+			create_pop = {
+				culture = catalan
+				size = 74512
+			}
+		}
+	}
+
+s:STATE_BALEARIC_ISLANDS = {
+		region_state:DOR = {
+			create_pop = {
+				culture = catalan
+				size = 211167
+			}
+			create_pop = {
+				culture = spanish
+				size = 20101
+			}
+		}
+	}
+
+s:STATE_AL_RIF = {
+		region_state:DOR = {
+			create_pop = {
+				culture = maghrebi
+				size = 374188
+			}
+			create_pop = {
+				culture = sephardic
+				size = 12800
+			}
+			create_pop = {
+				culture = berber
+				size = 71800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 34000
+			}
+		}
+		region_state:DOR = {
+			create_pop = {
+				culture = sephardic
+				size = 751
+			}
+			create_pop = {
+				culture = spanish
+				size = 9123
+			}
+			create_pop = {
+				culture = portuguese
+				size = 341
+			}
+			create_pop = {
+				culture = north_italian
+				size = 576
+			}
+			create_pop = {
+				culture = berber
+				size = 5612
+			}
+		}
+	}
+
+s:STATE_CANARY_ISLANDS = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 231268
+			}
+		}
+	}
+
+s:STATE_UPPER_ANDALUSIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 1188141
+			}
+		}
+		region_state:DOR = {
+			create_pop = {
+				culture = british
+				size = 4510
+			}
+			create_pop = {
+				culture = spanish
+				size = 3010
+			}
+			create_pop = {
+				culture = north_italian
+				size = 2210
+			}
+			create_pop = {
+				culture = sephardic
+				size = 2244
+			}
+			create_pop = {
+				culture = portuguese
+				size = 1401
+			}
+			create_pop = {
+				culture = maltese
+				size = 410
+			}
+		}
+	}
+
+s:STATE_EXTREMADURA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 508179
+			}
+			create_pop = {
+				culture = asturleonese
+				size = 44189
+			}
+		}
+	}
+
+s:STATE_VALENCIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = catalan
+				size = 764685
+			}
+			create_pop = {
+				culture = spanish
+				size = 201104
+			}
+		}
+	}
+
+s:STATE_NEW_CASTILE = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 1578858
+			}
+		}
+	}
+
+s:STATE_MURCIA = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 464203
+			}
+			create_pop = {
+				culture = catalan
+				size = 10103
+			}
+		}
+	}
+
+s:STATE_LEON = {
+		region_state:DOR = {
+			create_pop = {
+				culture = spanish
+				size = 260024
+			}
+			create_pop = {
+				culture = asturleonese
+				size = 372894
+			}
+			create_pop = {
+				culture = galician
+				size = 10003
+			}
+		}
+	}
+}
+
