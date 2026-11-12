@@ -1,0 +1,40 @@
+POPS = {
+	s:STATE_FROSTFANGS = {
+		region_state:BTW = {
+			create_pop = {
+				culture = norwegian
+				size = 546800
+			}
+		}
+	}
+
+	s:STATE_LANDS_OF_ALWAYS_WINTER = {
+		region_state:BTW = {
+			create_pop = {
+				culture = norwegian
+				size = 284860
+			}
+			create_pop = {
+				culture = sami
+				size = 40000
+			}
+			create_pop = {
+				culture = finnish
+				size = 12400
+			}
+		}
+	}
+
+	s:STATE_HAUNTED_FOREST = {
+		region_state:BTW = {
+			create_pop = {
+				culture = norwegian
+				size = 345800
+			}
+			create_pop = {
+				culture = finnish
+				size = 7000
+			}
+		}
+	}
+}

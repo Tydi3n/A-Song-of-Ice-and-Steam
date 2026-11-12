@@ -1,0 +1,10 @@
+region_north = {
+    capital_province = x9686A5
+    map_color = { 100 100 100 }
+    states = { STATE_WINTERFELL STATE_LASTLANDS STATE_BARROWLANDS STATE_NECK }
+}
+region_beyond_the_wall = {
+    capital_province = xC041E0
+    map_color = { 148 177 191 }
+    states = { STATE_FROSTFANGS STATE_LANDS_OF_ALWAYS_WINTER STATE_HAUNTED_FOREST }
+}

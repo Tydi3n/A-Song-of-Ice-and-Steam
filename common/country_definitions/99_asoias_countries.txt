@@ -1,0 +1,17 @@
+NTH = {
+    color = { 147 130 110}
+
+    country_type = recognized
+
+    tier = kingdom
+
+    cultures = { north_german}
+    capital = STATE_WINTERFELL
+}
+BTW = {
+    color = { 148 177 191 }
+    country_type = recognized
+    tier = kingdom
+    cultures = { norwegian }
+    capital = STATE_HAUNTED_FOREST
+}

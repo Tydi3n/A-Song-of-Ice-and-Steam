@@ -1,0 +1,15 @@
+﻿l_english:
+
+ STATE_WINTERFELL:0 "Winterfell"
+ STATE_LASTLANDS:0 "Last Lands"
+ STATE_BARROWLANDS:0 "Barrowlands"
+ STATE_NECK:0 "The Neck"
+ NTH:0 "The North"
+ NTH_ADJ:0 "Northern"
+
+ BTW:0 "Beyond the Wall"
+ BTW_ADJ:0 "Free Folk"
+ region_beyond_the_wall:0 "Beyond the Wall"
+ STATE_FROSTFANGS:0 "Frostfangs"
+ STATE_LANDS_OF_ALWAYS_WINTER:0 "Lands of Always Winter"
+ STATE_HAUNTED_FOREST:0 "Haunted Forest"
